@@ -1,5 +1,5 @@
 # BICP
 THIS TOOL ARE FREE BUT YOU WILL NEED APPROVAL TO TOOL ADMIN
 
-cd BICP
-python2 devil.py
+$ cd BICP
+$ python2 devil.py
