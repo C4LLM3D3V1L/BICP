@@ -1,5 +1,8 @@
 # BICP
-THIS TOOL ARE FREE BUT YOU WILL NEED APPROVAL TO TOOL ADMIN
+
+
+# git clone https://github.com/C4LLM3D3V1L/BICP
 
 $ cd BICP
+
 $ python2 devil.py
